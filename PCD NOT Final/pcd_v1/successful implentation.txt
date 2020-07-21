@@ -1,0 +1,6 @@
+1: delete whatever is inside the"output"file
+2:open extract_embedding.py and copy the first line and copy paste it in the terminal
+2.1 check the output pul and you'll notice 1 file has been added
+3: open train_model.py and copy the first line and copy paste it in the terminal 
+3.1 check the output pul and you'll notice 2 files  have been added 
+4: open recognize.py and copy the first line and copy paste it in the terminal 
